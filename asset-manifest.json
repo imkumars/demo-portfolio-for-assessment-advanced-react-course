@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/demo-portfolio-for-assessment-advanced-react-course/static/css/main.a8a8faff.css",
+    "main.js": "/demo-portfolio-for-assessment-advanced-react-course/static/js/main.2809f701.js",
+    "static/js/111.ad1cef69.chunk.js": "/demo-portfolio-for-assessment-advanced-react-course/static/js/111.ad1cef69.chunk.js",
+    "static/media/photo4.jpg": "/demo-portfolio-for-assessment-advanced-react-course/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
+    "static/media/photo2.jpg": "/demo-portfolio-for-assessment-advanced-react-course/static/media/photo2.7d510936625768642967.jpg",
+    "static/media/photo3.jpg": "/demo-portfolio-for-assessment-advanced-react-course/static/media/photo3.9a32dfac129b20149889.jpg",
+    "static/media/photo1.jpg": "/demo-portfolio-for-assessment-advanced-react-course/static/media/photo1.76b22eb753ddc88e0626.jpg",
+    "index.html": "/demo-portfolio-for-assessment-advanced-react-course/index.html",
+    "main.a8a8faff.css.map": "/demo-portfolio-for-assessment-advanced-react-course/static/css/main.a8a8faff.css.map",
+    "main.2809f701.js.map": "/demo-portfolio-for-assessment-advanced-react-course/static/js/main.2809f701.js.map",
+    "111.ad1cef69.chunk.js.map": "/demo-portfolio-for-assessment-advanced-react-course/static/js/111.ad1cef69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a8faff.css",
+    "static/js/main.2809f701.js"
+  ]
+}
