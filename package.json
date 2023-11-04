@@ -1,5 +1,4 @@
 {
-  "homepage": "https://sat-sid.github.io/demo-portfolio-for-assessment-advanced-react-course",
   "name": "graded-assessment",
   "version": "0.1.0",
   "private": true,
@@ -24,8 +23,6 @@
     "yup": "^0.32.11"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,7 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0",
     "prettier": "^2.7.1"
   }
 }
